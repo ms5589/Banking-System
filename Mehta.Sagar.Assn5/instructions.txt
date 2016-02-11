@@ -1,0 +1,7 @@
+(Sagar Mehta) (CIS 501) (Spring 2015) (BankSystem assn5)
+
+//Every Customer information can be pulled of from their Customer number.
+
+//When the program starts, it will hold one customer already, which has the customer number: 000.
+
+//And information of that customer can be found by Entering his customer number 000.
